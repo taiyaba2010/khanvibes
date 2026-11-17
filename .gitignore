@@ -1,0 +1,18 @@
+# secrets / deploy state
+.deploy-env
+keystore.properties
+*.jks
+*.keystore
+# node
+node_modules/
+# android / gradle build output
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties
+android/.idea/
+*.iml
+.gradle/
+build/
+# local sdk
+android-sdk/
